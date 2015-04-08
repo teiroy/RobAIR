@@ -1,1 +1,0 @@
-FEATURES_PROVIDED += transceiver periph_pwm periph_rtc cpp config

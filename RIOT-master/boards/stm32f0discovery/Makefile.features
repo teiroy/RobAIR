@@ -1,1 +1,0 @@
-FEATURES_PROVIDED += periph_adc periph_gpio periph_spi periph_uart cpp
